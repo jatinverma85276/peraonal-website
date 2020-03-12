@@ -1,0 +1,17 @@
+body{ background-color: powderblue}
+hr{ 
+    border-style: none;
+    border-top-style:  dotted ;
+    border-color: rgb(136, 80, 8);
+    border-width: 5px;
+    height: 0px;
+    width: 04%;}
+ h1{
+     color: rgb(156, 120, 189);  
+ }   
+ h3{
+     color: rgb(128, 128, 238);
+ }
+ div{
+     background-color: burlywood;
+ }
